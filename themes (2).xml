@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.NanoRemote" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">#121212</item>
+        <item name="android:textColor">#E0E0E0</item>
+    </style>
+</resources>
